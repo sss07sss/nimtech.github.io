@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>WELCOME</title>
+  <link rel="stylesheet" href="style.css" type="text/css">
+ </head>
+ <body>
+     <div class="heading">
+       <span class="title1">NimTech</span>
+       <span class="title2">Your potential. Our Passion</span>
+       <button class="register">
+          REGISTER NOW
+       </button>
+     </div>
+   <div class ="footer">
+      
+    </div>
+  </body>
+</html>
